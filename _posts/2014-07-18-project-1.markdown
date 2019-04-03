@@ -4,12 +4,12 @@ subtitle: at Eötvös University
 layout: default
 modal-id: 1
 date: 2018-09-01
-img: elte-edu.jpg
-thumbnail: dreams-thumbnail.png
+img: edusite.png
+thumbnail: elte-edu-thumbnail.jpg
 alt: image-alt
 project-date: Autumn 2018
 client: Students
 category: Education
-description: This describes it
+description: Similar to a project courses can be defined and students associated to each course
 
 ---

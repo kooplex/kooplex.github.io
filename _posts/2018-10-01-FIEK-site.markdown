@@ -1,0 +1,15 @@
+---
+title: Research site
+subtitle: FIEK collaboration
+layout: default
+modal-id: 2
+date: 2018-10-01
+img: kooplexfiek.png 
+thumbnail: kooplexfiek-thumbnail.png
+alt: image-alt
+project-date: April 2018
+client: All
+category: Research
+description: Desc
+
+---

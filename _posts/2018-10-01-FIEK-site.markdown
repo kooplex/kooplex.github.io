@@ -8,8 +8,7 @@ img: kooplexfiek.png
 thumbnail: kooplexfiek-thumbnail.png
 alt: image-alt
 project-date: April 2018
-client: All
+client: FIEK collaboration members
 category: Research
-description: Desc
-
+description: Collaborative platform for the FIEK project. Serves research purposes. Creating and sharing data analysis within the collaboration. <a href='https://kooplex-fiek.elte.hu/hub'>https://kooplex-fiek.elte.hu/hub</a>
 ---

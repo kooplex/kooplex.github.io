@@ -20,6 +20,8 @@ people:
   pic: 2
   position: Lead Drummer
   social:
+    - title: github
+      url: https://github.com/stegerjozsef
 
 - name: Who wants to be the pmpkin?
   pic: 3

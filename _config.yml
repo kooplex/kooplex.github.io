@@ -2,7 +2,7 @@ url: https://kooplex.github.io/
 baseurl: 
 
 # Site settings
-title: Kooplex - Collaborative Platform
+title: Kooplex website
 email: kooplex@complex.elte.hu
 description: "For collaborative research and education."
 
@@ -23,16 +23,12 @@ people:
     - title: github
       url: https://github.com/stegerjozsef
 
-- name: Who wants to be the pumpkin?
+- name: Igor Carnaúba
   pic: 3
   position: Lead Vocalist
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: github
+      url: https://github.com/stegerjozsef
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

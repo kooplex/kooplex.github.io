@@ -20,17 +20,23 @@ $(function(){
             </div>
             <div class="row">
                 <div class="col-lg-12">
-		  <form name="gform" id="gform" enctype="text/plain" action="https://docs.google.com/forms/d/e/1FAIpQLScDNSX7MR1jnHEew_Wcf7gh6bFp13mmjLpOe6d-iyedTMi51w/formResponse?" target="hidden_iframe" onsubmit="submitted=true;">
-		  <input type="text" class="form-control" placeholder="Your Name *" name="entry.95683997" id="entry.95683997" required data-validation-required-message="Please enter your name."><br>
-		  <input type="email" class="form-control" placeholder="Your Email *" name="entry.611883360" id="entry.611883360" required data-validation-required-message="Please enter your email address."><br>
-		  <input type="text" class="form-control" placeholder="Your Phone" name="entry.1195681410" id="entry.1195681410"><br>
-		  <textarea type="text" class="form-control" placeholder="Your Message *" name="entry.842582774" id="entry.842582774" required data-validation-required-message="Please enter your message."></textarea><br>
-		  <div class="col-lg-12 text-center">
-                  	<button type="submit" class="btn btn-xl">Send Message</button>
-		  </div>
-		</form>
-
-		<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted) {}"></iframe>
+					<!-- modify this form HTML and place wherever you want your form -->
+					<form
+					action="https://formspree.io/f/xdkwyoag"
+					method="POST"
+					>
+					<label>
+						Your email:
+						<input type="email" name="email">
+					</label>
+					<label>
+						Your message:
+						<textarea name="message"></textarea>
+					</label>
+					<!-- your other form fields go here -->
+					<button type="submit">Send</button>
+					</form>
+            	</div>
             </div>
         </div>
 </section>

@@ -3,7 +3,7 @@ baseurl:
 
 # Site settings
 title: Kooplex webpage
-email: kooplex@complex.elte.hu
+email: kooplex@elte.hu
 description: "For collaborative research and education."
 
 
@@ -23,12 +23,12 @@ people:
     - title: github
       url: https://github.com/stegerjozsef
 
-- name: Igor Carnaúba
-  pic: 3
-  position: Lead Vocalist
-  social:
-    - title: github
-      url: https://github.com/stegerjozsef
+# - name: Igor Carnaúba
+#   pic: 3
+#   position: Lead Vocalist
+#   social:
+#     - title: github
+#       url: https://github.com/stegerjozsef
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

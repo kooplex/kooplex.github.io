@@ -23,12 +23,12 @@ people:
     - title: github
       url: https://github.com/stegerjozsef
 
-# - name: Igor Carnaúba
-#   pic: 3
-#   position: Lead Vocalist
-#   social:
-#     - title: github
-#       url: https://github.com/stegerjozsef
+- name: Katalin Gillemot
+  pic: 3
+  position: Lead Vocalist
+  social:
+    - title: github
+      url: https://github.com/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
